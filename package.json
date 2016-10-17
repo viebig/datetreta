@@ -1,0 +1,13 @@
+{
+  "name": "datetreta",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "benchmark": "node original && node iife && node monkeypatch && node moment"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.15.1"
+  }
+}

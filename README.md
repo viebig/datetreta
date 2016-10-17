@@ -1,2 +1,6 @@
-# datetreta
-NodeJS Date subtract 2 days benchmarks
+# Node.js Date subtract 2 days benchmark
+
+```
+npm install
+npm run benchmark
+```
